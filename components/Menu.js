@@ -21,7 +21,7 @@ const DpMenu = (props) => {
   const menu = [
     {
       title: "Projects",
-      to: "#"
+      to: "/dashboard"
     },
     {
       title: "Widget Configuration",
